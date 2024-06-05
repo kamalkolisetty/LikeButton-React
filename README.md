@@ -102,7 +102,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ---
 
-Feel free to customize this README file according to your project's specific requirements.
 
 ## Demonstration
 
